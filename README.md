@@ -22,4 +22,5 @@ https://youtu.be/jXsrGVZmfLc
 ### Notebook
 https://gitlab.com/JOSESUCH/sistema-de-riesgo/-/blob/main/Sistema_de_detección_de_riesgo__1_.ipynb
 ### Repositorio
+https://github.com/JOSESUCH/SAGRILAFT
 
