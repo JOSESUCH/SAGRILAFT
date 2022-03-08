@@ -11,9 +11,15 @@ Detectar y tomar medidas frente a actos delictivos de una empresa
 Para este proyecto se decidio dejar la informacion del dataset como privada ya que se encontraban muchos nombres de empresas nacionales y tambien nombres de personas naturales para no exponer en peligro ni a nosotros ni a ustedes decidimos que no se mostraria al publico.
 
 ## Modelos usados en este proyecto:
--GaussianNB
--Random Forest Classifier
--Decision Tree Classifier
--Support vector machine
+GaussianNB,
+Random Forest Classifier,
+Decision Tree Classifier,
+Support vector machine
 
-##
+## Enlaces
+### Video
+https://youtu.be/jXsrGVZmfLc
+### Notebook
+https://gitlab.com/JOSESUCH/sistema-de-riesgo/-/blob/main/Sistema_de_detección_de_riesgo__1_.ipynb
+### Repositorio
+
